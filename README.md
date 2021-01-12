@@ -7,5 +7,6 @@
 ## Python Libraries used:-
  
   * Numpy
+  * Numpy Financial
   
  
