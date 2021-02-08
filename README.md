@@ -28,7 +28,7 @@
         pmt: The (fixed) payment at the beginning or end of each period (which is 0 in our example)
         fv: The future value of the investment
         ```
-      - **Future Value** : The numpy-financial module also contains a similar function, .fv(rate, nper, pmt, pv), which allows to calculate the future value of an investment as before with a few simple parameters:
+      - **Future Value** : The numpy-financial module also contains a similar function, `.fv(rate, nper, pmt, pv)`, which allows to calculate the future value of an investment as before with a few simple parameters:
         ```
         rate: The rate of return of the investment
         nper: The lifespan of the investment
