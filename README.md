@@ -35,3 +35,8 @@
         pmt: The (fixed) payment at the beginning or end of each period (which is 0 in our example)
         pv: The present value of the investment
         ```
+      - **Inflation Rate** : Adjusting future values for inflation
+
+        First, forecast the future value of an investment given a rate of return.
+
+        Second, discount the future value of the investment by a projected inflation rate.
