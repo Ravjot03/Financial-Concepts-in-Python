@@ -40,3 +40,17 @@
         First, forecast the future value of an investment given a rate of return.
 
         Second, discount the future value of the investment by a projected inflation rate.
+        
+    - **Net Present Value and Cash Flows**
+      - **Cash Flows** : Cash Flows are a series of gains or losses from an investment over time.
+      - **Discounting Cash flows**
+      - **Diminishing Cash flows**
+      
+ 2. **PART-2** : Project Proposals and Cash flow projections
+    - **Internal Rate of Return**
+    - **Debt and Equity financing**
+    - **WACC - Weighted Average Cost of Capital**
+    - **Comparing project NPV with IRR**
+    - **Two projects with different lifespans**
+    - **Equivalent Annual Annuity (EAA) Approach** : The equivalent annual annuity (EAA) approach allows us to compare two projects by essentially assuming that each project is an investment generating a flat interest rate each year (an annuity), and calculating the annual payment we would receive from each project, discounted to present value.
+    
