@@ -1,15 +1,15 @@
 # Financial-Concepts-in-Python
-
+---
 ## Description
 
   * In this jupyter notebook, I have explained the basic principles of Finance. 
   * How these basic principles are essential for making important financial decisions.
-
+---
 ## Python Libraries used
  
   * Numpy
   * Numpy Financial
-
+---
 ## Contents
 
  1. **PART-1** : Fundamental financial concepts like the time value of money, growth and rate of return, compound interest, discount factors, depreciation, and inflation.
